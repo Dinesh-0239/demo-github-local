@@ -1,0 +1,24 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex dce49c9..4d8fe8f 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -8,9 +8,6 @@[m
+         p {[m
+             color: red;[m
+         }[m
+[31m-        h1{[m
+[31m-            color: blue;[m
+[31m-        }[m
+     </style>[m
+ </head>[m
+ <body>[m
+[36m@@ -18,7 +15,7 @@[m
+         Hello World[m
+     </p>[m
+     <h1>[m
+[31m-        Adding Feature (button)[m
+[32m+[m[32m        Adding Feature[m
+     </h1>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
